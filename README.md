@@ -1,29 +1,72 @@
 # Hi 👋, I'm Shashank Chitikeshi
 
-🎓 Computer Science Engineering Student  
-💻 Aspiring Software Developer  
-🌱 Currently learning Java and Web Development
+🎓 B.Tech 4th Year | Computer Science Engineering  
+💼 Actively seeking Software Developer opportunities  
+💻 Passionate about programming and software development  
+🚀 Building projects to improve my technical and problem-solving skills
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 - Java
+- Python
 - HTML
 - CSS
 - JavaScript
-- Python
 - SQL
 - Git & GitHub
 
 ## 🚀 Projects
 
-### Smart CCTV Surveillance System
-A real-time surveillance project developed using Python.
+### 🏦 Java Based Banking Fraud Detection and Simulation Engine
 
-### Web Development Projects
-Projects using HTML, CSS and JavaScript.
+An industry-oriented mini project developed using Java to simulate digital banking transactions and identify potentially fraudulent activities.
 
-### Java Projects
-Java programs based on Object-Oriented Programming.
+**Key Features:**
+- 🔍 Fraud and anomaly detection
+- 💳 Banking transaction simulation
+- ⚙️ Rule-based fraud analysis
+- 📊 Transaction monitoring and risk analysis
+- 🚨 Fraud alerts and suspicious transaction identification
+- 🤖 Machine-learning integration concept
+- 🔌 API-driven transaction integration
+- 📈 Dashboard-based transaction monitoring
+
+**Technologies:**
+`Java` `SQL` `Machine Learning` `REST API` `Git`
+
+---
+
+### 📹 Smart CCTV Surveillance System
+
+A real-time surveillance system developed using Python.
+
+**Key Features:**
+- Motion detection
+- Object tracking
+- Face detection and recognition
+- Real-time monitoring
+
+**Technologies:**
+`Python` `OpenCV` `Machine Learning`
+
+---
+
+### 🌐 Web Development Projects
+
+Web development projects created using:
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+### ☕ Java Projects
+
+Java projects focused on:
+
+- Object-Oriented Programming
+- Problem Solving
+- Data Structures
+- Java Programming Concepts
 
 ## 📈 Currently Improving
 
@@ -32,10 +75,11 @@ Java programs based on Object-Oriented Programming.
 - Web Development
 - Problem Solving
 - Software Development
-  
-## 🎯 Goals
+- Database Management
 
-To improve my programming skills and build useful real-world projects.
+## 🎯 Career Goal
+
+Looking for an opportunity to start my career as a Software Developer and contribute to real-world projects while continuously improving my technical skills.
 
 ## 📫 Connect With Me
 
