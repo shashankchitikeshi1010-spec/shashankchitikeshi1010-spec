@@ -16,25 +16,30 @@
 
 ## 🚀 Projects
 
-### 📹 Smart CCTV Surveillance System
-Real-time surveillance system using Python.
+### Smart CCTV Surveillance System
+A real-time surveillance project developed using Python.
 
-### 🌐 Web Development
-HTML, CSS and JavaScript projects.
+### Web Development Projects
+Projects using HTML, CSS and JavaScript.
 
-### ☕ Java Projects
-Java programming and object-oriented programming projects.
+### Java Projects
+Java programs based on Object-Oriented Programming.
 
-## 📚 Currently Learning
+## 📈 Currently Improving
 
+- Data Structures & Algorithms
 - Java
 - Web Development
-- Data Structures
+- Problem Solving
 - Software Development
+  
+## 🎯 Goals
+
+To improve my programming skills and build useful real-world projects.
 
 ## 📫 Connect With Me
 
-GitHub: [@shashankchitikeshi1010-spec](https://github.com/shashankchitikeshi1010-spec)
+- GitHub: [shashankchitikeshi1010-spec](https://github.com/shashankchitikeshi1010-spec)
 
 ---
 
