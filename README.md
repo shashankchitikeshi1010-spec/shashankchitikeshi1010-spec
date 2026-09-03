@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Shashank Chitikeshi
 
-<!--
-**shashankchitikeshi1010-spec/shashankchitikeshi1010-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+💻 Aspiring Software Developer  
+🌱 Currently learning Java and Web Development
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- HTML
+- CSS
+- JavaScript
+- Python
+- SQL
+- Git & GitHub
+
+## 🚀 Projects
+
+### 📹 Smart CCTV Surveillance System
+Real-time surveillance system using Python.
+
+### 🌐 Web Development
+HTML, CSS and JavaScript projects.
+
+### ☕ Java Projects
+Java programming and object-oriented programming projects.
+
+## 📚 Currently Learning
+
+- Java
+- Web Development
+- Data Structures
+- Software Development
+
+## 📫 Connect With Me
+
+GitHub: [@shashankchitikeshi1010-spec](https://github.com/shashankchitikeshi1010-spec)
+
+---
+
+⭐ Thanks for visiting my profile!
